@@ -41,6 +41,8 @@ I write down all my mistakes in a list so that I never repeat them.
 
 (S) When I started working on load testing of my project I had to get slot (where the instances are placed) created instantly instead of warm pool. (A) But in order to reduce waiting time it is in our design that we will get it from warm pool. So I added a mechanism that by passing an extra optional parameter we can force it to create instantly instead of warm pool. (R) After adding some changes to the existing code I was able to complete this requirement without affecting our design and all engineers agreed with this approach.
 
+TODO: Tell about lua script that made CPU usage to 100%.
+
 ### 7. Tell me about a time when you took important decision without any data? (Frugality, Learn and Be Curious, Dive Deep)
 (S) When I was fresh student of my graduation time I participated serveral online programming competitions. (T) Suddenly some of my friends stopped participating in the competitions. I asked them the reason of not participating. They told me that there is no future of this kind of competitions. (A) As I am interested to be Software Engineer and logic is called the brain of a software so I continued. They told me that it will be useless of my hard works. During that time I didn't have any sufficient data to prove that competitions is really important for increasing thinking capabilities of an engineer. But I continued it as I love it and I have great enthuasism on it. (R) After participating many competitions in online and onsite I could make some good positions. I got offer from serveral local companies before competing my post graduation. And now as a software engineer I believe that business logic is the core part of a software. And still I am learning to improve it.
 
