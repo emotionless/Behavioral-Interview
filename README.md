@@ -152,7 +152,7 @@ I completed my post graduation from JU in 2017. I am an innovative software engi
 ### 33. Tell me a time when you had to take a pivot at the last minute?
 (S) Let me tell you a story of 2017. (T) I participated a National Programming Competition. We were given some problems to solve. (A) It's length was 5 hours. When others team were able to solve 6 problems in 4 hours, we had only 4 !!! I was trying my best to solve but getting several bugs in my code. The last hour was the turning hour for me and my team. After checking code I found that one of my team mate missed some cases because he overthinked on some cases. I addressed them and he fixed them. And in the meantime I approached another problem from scratch and solved it at the eleventh hour. (R) At last I solved or helped to solve 4 problems in total where my team mates solved 3 and ranked 3. And champion team also solved 7 problems.
 
-
+### 34. 
 
 # Company Specific Questions
 ### 1. Why do you want to work here?
